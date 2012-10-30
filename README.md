@@ -1,4 +1,4 @@
-vimperator
+Vimperator
 ==========
 
-my personal vimperator conf
+My personal vimperator runtime
