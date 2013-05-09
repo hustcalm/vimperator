@@ -17,3 +17,15 @@ My personal vimperator runtime with awesome Firefox.
 * [Another cheat sheet](http://www.cheat-sheets.org/#FirefoxAddOns)
 
 ## Customizing Vimperator
+
+## Hacking Vimperator
+*   [Source Code](http://code.google.com/p/vimperator-labs/source/browse)
+
+Basic steps to do contribution:
+*   make a clone of the source code
+*   use `hg` get a local copy of the source code
+*   working on your hacking...
+*   use `hg diff > hacking.patch` to generate a patch
+*   attach the patch to a created issue or create a new one
+*   waiting for merge into truck...
+*   working on other threads and back to step 3
