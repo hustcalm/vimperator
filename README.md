@@ -17,28 +17,28 @@ My personal vimperator runtime with awesome Firefox.
 * [Another cheat sheet](http://www.cheat-sheets.org/#FirefoxAddOns)
 
 ### Quick Reference made by me:-)
-*   o Open new link in current tab
-*   t Open new link in new tab, also you can input keywords for search
-*   Tab  select the candinates recycly
-*   f Follow hint and open link in current tab, also very useful for locating user input forms
-*   F Follow hint and open link in new tab
-*   gi Locate the input form quickly
-*   Ctrl + A  Move cursor to the beginning of the line in insert mode
-*   Ctrl + E  Move cursor to the end of the line in insert mode
-*   Ctrl + U  Delete the characters before cursor in insert mode
-*   Ctrl + K  Delete the characters after cursor in insert mode
-*   gt Jump to right tab
-*   gT Jump to left tab
-*   g0 Jump to first tab
-*   g$ Jump to last tab
-*   H  Navigate back
-*   L  Navigate forward
-*   d  Close current tab
-*   u  Undo and reopen the lastest closed tab
-*   /  Search in current page
-*   ?  Search in current page reversely
-*   :  Command mode
-*   ;c Follow hint and open the right click menu(also called the contextual menu) for links
+*   `o` Open new link in current tab
+*   `t` Open new link in new tab, also you can input keywords for search
+*   `Tab`  select the candinates recycly
+*   `f` Follow hint and open link in current tab, also very useful for locating user input forms
+*   `F` Follow hint and open link in new tab
+*   `gi` Locate the input form quickly
+*   `Ctrl + A`  Move cursor to the beginning of the line in insert mode
+*   `Ctrl + E`  Move cursor to the end of the line in insert mode
+*   `Ctrl + U`  Delete the characters before cursor in insert mode
+*   `Ctrl + K`  Delete the characters after cursor in insert mode
+*   `gt` Jump to right tab
+*   `gT` Jump to left tab
+*   `g0` Jump to first tab
+*   `g$` Jump to last tab
+*   `H`  Navigate back
+*   `L`  Navigate forward
+*   `d`  Close current tab
+*   `u`  Undo and reopen the lastest closed tab
+*   `/`  Search in current page
+*   `?`  Search in current page reversely
+*   `:`  Command mode
+*   `;c` Follow hint and open the right click menu(also called the contextual menu) for links
 
 ## Customizing Vimperator
 
