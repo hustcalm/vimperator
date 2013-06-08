@@ -54,6 +54,10 @@ Basic steps to do contribution:
 *   waiting for merge into truck...
 *   working on other threads and back to step 3
 
+## Should we switch to [Pentadactyl](http://5digits.org/home)
+*   [What's the differnce between Vimperator and Pentadactyl](http://superuser.com/questions/261174/whats-the-difference-between-vimperator-and-pentadactyl)
+*   [Vimperator VS Pentadactyl](http://code.google.com/p/vimperator-labs/wiki/VimperatorVsPentadactyl)
+
 ## Rethink about working under CLI
 ### 完全用命令行工作 from [徐宥](http://blog.youxu.info/)
 *   [1：拔掉你的鼠标](http://blog.youxu.info/2008/09/04/unplug-your-mouse/)
